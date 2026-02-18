@@ -1,0 +1,7 @@
+.{
+    .name = .easyprint,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.16.0-dev.2535",
+    .paths = .{ "build.zig", "build.zig.zon", "easyprint.zig", "README.md" },
+    .fingerprint = 0xcee56da431585159
+}
